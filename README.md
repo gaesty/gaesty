@@ -1,7 +1,7 @@
 # 👋 Bienvenue sur mon profil GitHub !
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=41B883&center=true&vCenter=true&width=435&lines=Je+suis+Ga%C3%ABtan+STYSKAL;D%C3%A9veloppeur+passionn%C3%A9;Expert+en+IoT+%26+DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=41B883&center=true&vCenter=true&width=435&lines=Je+suis+Ga%C3%ABtan+STYSKAL;D%C3%A9veloppeur+passionn%C3%A9" alt="Typing SVG" />
   
   <p>
     <a href="https://www.linkedin.com/in/gaetan-styskal/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
