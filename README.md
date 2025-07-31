@@ -12,8 +12,6 @@
 
 ## 📌 À propos de moi
 
-> Développeur passionné avec un intérêt particulier pour l'IoT et les technologies mobiles. Actuellement en Master d'Informatique et IoT à **H3Hitema**.
-
 - 🔭 Je travaille actuellement sur [BikeTrack](https://github.com/gaesty/BikeTrack)
 - 🌱 J'apprends **Flutter** pour le développement d'applications mobiles
 - 💡 Passionné par les solutions IoT innovantes
